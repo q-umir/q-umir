@@ -2,7 +2,7 @@
 
 My name is Midory!
 
-I am a student software development and data data analytics 👩‍💻✨
+I am a student software development and data analytics 👩‍💻✨
 
 <!--
 **q-umir/q-umir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
